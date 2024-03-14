@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/menu_news" android:title="Vnexpress" android:icon="@drawable/baseline_fiber_new_24"/>
+    <item android:id="@+id/menu_order" android:title="Báo dân trí" android:icon="@drawable/baseline_star_border_24"/>
+</menu>
